@@ -29,7 +29,7 @@
 ## Github
 
 - Para configurar a autentificação no mobile, é necessario mudar o arquivo index.tsx, que fica em `app/index.tsx`, mudando o `clientId` para o id do cliente de autentificação do github, que é o mesmo que esta no BE.
-- Também é configurar o `const discovery` que também está no `index.ts`.
+- Também configurar o `const discovery` que está no `index.ts`.
 
 ```json
 {
